@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Ethereum Address Generator allows users to generate Ethereum addresses that match specific prefixes and suffixes. It utilizes multiple CPU cores to efficiently create addresses, supporting a fast mode for rapid generation without progress updates.
+This Ethereum Address Generator allows users to generate Ethereum addresses that match specific prefixes and suffixes. It utilizes multiple CPU cores to efficiently create addresses.
 
 ## Features
 
