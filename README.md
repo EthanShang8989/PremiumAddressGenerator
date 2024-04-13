@@ -17,6 +17,27 @@ This Ethereum Address Generator allows users to generate Ethereum addresses that
 
 ## Installation
 
+### Using Pre-built Binaries
+
+If you prefer not to build the project from source, pre-built executables for Windows and Linux are available in the Releases section of this repository.
+
+1. Navigate to the [Releases page](https://github.com/yourrepositorylink/releases).
+
+2. Download the appropriate executable for your operating system:
+
+   - For Windows: [PremiumAddressGenerator.exe](https://github.com/EthanShang8989/PremiumAddressGenerator/releases/download/latest/PremiumAddressGenerator.exe)
+   - For Linux: [PremiumAddressGenerator](https://github.com/EthanShang8989/PremiumAddressGenerator/releases/download/latest/PremiumAddressGenerator)
+
+3. Run the executable from your command line or terminal.
+
+   ```
+   PremiumAddressGenerator -prefix="1a2b3" -suffix="4c5d6" -cores=4
+   ```
+
+   
+
+### Building from Source
+
 To set up the Ethereum Address Generator on your system, follow these steps:
 
 1. Ensure that Go is installed on your system. You can download it from https://golang.org/dl/.
